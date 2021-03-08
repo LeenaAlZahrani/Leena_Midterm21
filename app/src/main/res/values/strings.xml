@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Leena_Midterm20</string>
+    <string name="bttnAct2">Go to Act2</string>
+    <string name="bttnAct3">Go to Act3</string>
+    <string name="bttnAct1">Go to Act1</string>
+    <string name="Act2">You Are in Activity 2</string>
+    <string name="Act3">You Are in Activity 3</string>
+    <string name="Act1">You Are in Activity 1</string>
+    <string name="bttnYear">Insert birth Year</string>
+</resources>
